@@ -6,14 +6,10 @@ imblearn==0.0
 json5==0.9.5
 jsonify==0.5
 jupyter==1.0.0
-lxml @ file:///C:/ci/lxml_1616443455957/work
 matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
 mpmath==1.2.1
-multipledispatch==0.6.0
 mypy-extensions==0.4.3
 numpy==1.19.5
-oauthlib==3.1.1
-olefile==0.46
 pandas @ file:///C:/ci/pandas_1618365634936/work
 Rtree @ file:///C:/ci/rtree_1618421009405/work
 scikit-image==0.18.1
