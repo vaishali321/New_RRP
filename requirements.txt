@@ -1,13 +1,8 @@
-autoviz==0.0.8
-entrypoints==0.3
 et-xmlfile==1.0.1
-future==0.18.2
 gunicorn
 h5py==2.10.0
 imbalanced-learn==0.8.0
 imblearn==0.0
-ipykernel @ file:///C:/ci/ipykernel_1596190155316/work/dist/ipykernel-5.3.4-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1617121002983/work
 json5==0.9.5
 jsonify==0.5
 jupyter==1.0.0
@@ -16,37 +11,10 @@ matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
 mpmath==1.2.1
 multipledispatch==0.6.0
 mypy-extensions==0.4.3
-notebook @ file:///C:/ci/notebook_1616443715883/work
-numba @ file:///C:/ci/numba_1616774458845/work
-numexpr @ file:///C:/ci/numexpr_1618856738664/work
 numpy==1.19.5
 oauthlib==3.1.1
 olefile==0.46
 pandas @ file:///C:/ci/pandas_1618365634936/work
-pandocfilters @ file:///C:/ci/pandocfilters_1605102497129/work
-parso==0.7.0
-path @ file:///C:/ci/path_1614022440181/work
-pathlib2 @ file:///C:/ci/pathlib2_1607025069150/work
-pathspec==0.7.0
-patsy==0.5.1
-pep8==1.7.1
-pkginfo==1.7.0
-ply==3.11
-psutil @ file:///C:/ci/psutil_1612298324802/work
-pyasn1==0.4.8
-pyasn1-modules==0.2.8
-pycosat==0.6.3
-pycurl==7.43.0.6
-pyerfa @ file:///C:/ci/pyerfa_1619391071834/work
-pylint @ file:///C:/ci/pylint_1617136058775/work
-pyls-spyder @ file:///tmp/build/80754af9/pyls-spyder_1613849700860/work
-PyNaCl @ file:///C:/ci/pynacl_1595000047588/work
-pyreadline==2.1
-pyrsistent @ file:///C:/ci/pyrsistent_1600141795814/work
-PySocks @ file:///C:/ci/pysocks_1605287845585/work
-pytest==6.2.3
-QtPy==1.9.0
-regex @ file:///C:/ci/regex_1617569893741/work
 Rtree @ file:///C:/ci/rtree_1618421009405/work
 scikit-image==0.18.1
 scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
@@ -60,7 +28,6 @@ SQLAlchemy @ file:///C:/ci/sqlalchemy_1618090063261/work
 statsmodels==0.12.2
 sympy @ file:///C:/ci/sympy_1618255511605/work
 tables==3.6.1
-ujson @ file:///C:/ci/ujson_1611241570789/work
 unicodecsv==0.14.1
 wrapt==1.12.1
 xgboost==1.4.2
