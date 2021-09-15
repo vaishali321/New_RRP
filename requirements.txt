@@ -6,23 +6,21 @@ imblearn==0.0
 json5==0.9.5
 jsonify==0.5
 jupyter==1.0.0
-matplotlib @ file:///C:/ci/matplotlib-suite_1613408055530/work
+matplotlib 
 mpmath==1.2.1
 mypy-extensions==0.4.3
 numpy==1.19.5
-pandas @ file:///C:/ci/pandas_1618365634936/work
-Rtree @ file:///C:/ci/rtree_1618421009405/work
+pandas 
+Rtree 
 scikit-image==0.18.1
-scikit-learn @ file:///C:/ci/scikit-learn_1614446896245/work
-scipy @ file:///C:/ci/scipy_1618856128765/work
-seaborn @ file:///tmp/build/80754af9/seaborn_1608578541026/work
+scikit-learn k
+scipy 
+seaborn 
 simplegeneric==0.8.1
 sip==4.19.13
-spyder @ file:///C:/ci/spyder_1616776239898/work
-spyder-kernels @ file:///C:/ci/spyder-kernels_1614030842607/work
-SQLAlchemy @ file:///C:/ci/sqlalchemy_1618090063261/work
+spyder 
+spyder-kernels
 statsmodels==0.12.2
-sympy @ file:///C:/ci/sympy_1618255511605/work
 tables==3.6.1
 unicodecsv==0.14.1
 wrapt==1.12.1
