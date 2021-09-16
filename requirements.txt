@@ -1,6 +1,4 @@
-et-xmlfile==1.0.1
 gunicorn
-h5py==2.10.0
 imbalanced-learn==0.8.0
 imblearn==0.0
 json5==0.9.5
@@ -19,8 +17,6 @@ seaborn
 simplegeneric==0.8.1
 spyder 
 statsmodels==0.12.2
-tables==3.6.1
-wrapt
 xgboost==1.4.2
 xmltodict
 
